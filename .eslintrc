@@ -1,0 +1,6 @@
+{
+    "extends": ["react-app"],
+    "rules": {
+        // "no-console": "error" //Pour aire en sorte qu'on affiche une erreur lorsque j'utiliserai des console.log dans mes fichiers
+    }
+}
